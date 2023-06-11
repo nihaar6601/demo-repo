@@ -5,6 +5,5 @@ Readme updated!!
 
 Readme updated 2 !!
 
-Readme updated 3 on feature branch !
 
-Readme updated 3 on feature2 branch !
+Changes in feature2 branch !
